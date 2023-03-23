@@ -12,7 +12,7 @@
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
  
-  <img align="right" alt="Lucas Pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1087182521986465794/1087182539887751258/324302111_1227985361430051_4351433572142285883_n.png">
+  <img align="right" alt="Lucas Pic" height="150" style="border-radius:50px;" src="">
 </div>
   
   ##
