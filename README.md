@@ -1,7 +1,7 @@
 ### Olá eu sou Lucas Bob 👋
 
 - 🔭 Hoje faço análise e desenvolvimento de sistemas na FIAP.
-- 🌱 Estudando Java e Phyton 
+- 🌱 Estudando Java, Python, Html e CS. 
 - 💬 Email para contato: boblucas307@gmail.com
 
 ## Oiii eu sou o Lucas Bob!!
