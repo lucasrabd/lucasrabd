@@ -4,7 +4,7 @@
 - 🌱 Estudando Java, Python, Java Script, HTML, CSS 
 - 💬 Email para contato: boblucas307@gmail.com
 
-## Oiii eu sou o Lucas Bob!!
+## Meu intuito é me tornar um desenvolvedor full stack um dia.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
