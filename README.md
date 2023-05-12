@@ -1,7 +1,7 @@
 ### Olá eu sou Lucas Bob 👋
 
 - 🔭 Hoje faço análise e desenvolvimento de sistemas na FIAP.
-- 🌱 Estudando Java, Python, Html e CS. 
+- 🌱 Estudando Java, Python, Java Script, HTML, CSS 
 - 💬 Email para contato: boblucas307@gmail.com
 
 ## Oiii eu sou o Lucas Bob!!
@@ -11,6 +11,7 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
  
 
   
