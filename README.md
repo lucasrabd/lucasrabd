@@ -1,4 +1,4 @@
-### Olá eu sou Lucas Bob 👋
+### 
 
 - 🔭 Análise e desenvolvimento de sistemas na FIAP.
 - 🌱 Estudando Java, Python, Java Script, HTML, CSS 
