@@ -4,7 +4,7 @@
 - 🌱 Estudando Java, Python, Java Script, HTML, CSS 
 - 💬 Email para contato: boblucas307@gmail.com
 
-## Olá senhores e senhores sejam bem-vindos ao meu perfil.
+## Olá à todos sejam bem-vindos ao meu perfil.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
