@@ -17,7 +17,7 @@
   ##
  
 <div> 
-
+  <br> E-mail <br>
   <a href = "mailto:boblucas307@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <br> Linkedin <br>
   <a href="https://www.linkedin.com/in/lucas-carabolad-bob-195817223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
