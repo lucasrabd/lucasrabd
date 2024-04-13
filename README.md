@@ -12,7 +12,7 @@ Olá, sou o Lucas! 👋 Um apaixonado por tecnologia e desenvolvimento de softwa
   <img align="center" alt="Java" height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
   <img align="center" alt="Python" height="40" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">
   <img align="center" alt="SQL" height="40" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
-  <img align="center" alt=".NET" height="40" src="https://img.icons8.com/color/48/000000/dot-net.png">
+  <img align="center" alt=".NET" height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
   <img align="center" alt="React" height="40" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
 </div>
 
