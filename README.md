@@ -1,7 +1,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas na FIAP.
-- 🌱 Estudando Java.
+- 🌱 Estudando Java, SQL, Python, .NET e React.
 - 💬 Email para contato: boblucas307@gmail.com
 
 ## Olá, pessoal! 👋
@@ -13,6 +13,8 @@ Meu nome é Lucas e sou um entusiasta da tecnologia, apaixonado por desenvolvime
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Lucas-SQL" height="30" width="40" src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img align="center" alt="Lucas-DotNet" height="30" width="40" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://img.shields.io/badge/react-%2300f.svg?style=for-the-badge&logo=react&logoColor=white">
   
 </div>
 
@@ -23,8 +25,8 @@ Meu nome é Lucas e sou um entusiasta da tecnologia, apaixonado por desenvolvime
 ##
 
 <div> 
-  <br> 📧 E-mail <br>
+  <br> 📧 Entre em contato: <br>
   <a href = "mailto:boblucas307@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <br> 🔗 LinkedIn <br>
+  <br> 🔗 Conecte-se comigo no LinkedIn: <br>
   <a href="https://www.linkedin.com/in/lucas-carabolad-bob-195817223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
