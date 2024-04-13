@@ -9,10 +9,10 @@ Olá, sou o Lucas! 👋 Um apaixonado por tecnologia e desenvolvimento de softwa
 ### 💻 Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" src="https://media.giphy.com/media/l0HlPAG8fDTwE6Rfa/giphy.gif">
+  <img align="center" alt="Java" height="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
   <img align="center" alt="Python" height="40" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">
   <img align="center" alt="SQL" height="40" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
-  <img align="center" alt=".NET" height="40" src="https://media.giphy.com/media/3oEjHCWYbPzIeY9YBa/giphy.gif">
+  <img align="center" alt=".NET" height="40" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
   <img align="center" alt="React" height="40" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
 </div>
 
