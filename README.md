@@ -3,18 +3,20 @@
 Olá, sou o Lucas! 👋 Um apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP, onde estou imerso em um mundo de código e inovação.
 
 - 🔭 Atualmente estou explorando o vasto universo da programação, mergulhando em diferentes tecnologias e linguagens.
-- 🌱 Estou aprimorando minhas habilidades em Java, SQL, Python, .NET e React, sempre buscando aprender algo novo a cada dia.
+- 🌱 Estou aprimorando minhas habilidades em Java, SQL, Python, .NET e Docker, sempre buscando aprender algo novo a cada dia.
 - 💬 Sinta-se à vontade para entrar em contato comigo pelo e-mail: boblucas307@gmail.com
 
 ### 💻 Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
-  <img align="center" alt="Python" height="40" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">
-  <img align="center" alt="SQL" height="40" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
-  <img align="center" alt=".NET" height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
-  <img align="center" alt="React" height="40" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
+  <img align="center" alt="Java" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
+  <img align="center" alt="Python" height="40" src="https://img.icons8.com/color/48/000000/python.png">
+  <img align="center" alt="SQL" height="40" src="https://img.icons8.com/color/48/000000/sql.png">
+  <img align="center" alt=".NET" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png">
+  <img align="center" alt="Docker" height="40" src="https://img.icons8.com/color/48/000000/docker.png">
 </div>
+
+
 
 ### 📊 Estatísticas
 
@@ -40,17 +42,17 @@ English Version
 Hello, I'm Lucas! 👋 A technology and software development enthusiast. Currently, I'm pursuing a degree in Systems Analysis and Development at FIAP, where I'm immersed in a world of code and innovation.
 
 - 🔭 I'm currently exploring the vast universe of programming, diving into different technologies and languages.
-- 🌱 I'm enhancing my skills in Java, SQL, Python, .NET, and React, always seeking to learn something new every day.
+- 🌱 I'm enhancing my skills in Java, SQL, Python, .NET, and Docker, always seeking to learn something new every day.
 - 💬 Feel free to get in touch with me via email: boblucas307@gmail.com
 
 ### 💻 Technologies and Tools
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
-  <img align="center" alt="Python" height="40" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">
-  <img align="center" alt="SQL" height="40" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
-  <img align="center" alt=".NET" height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
-  <img align="center" alt="React" height="40" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
+  <img align="center" alt="Java" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
+  <img align="center" alt="Python" height="40" src="https://img.icons8.com/color/48/000000/python.png">
+  <img align="center" alt="SQL" height="40" src="https://img.icons8.com/color/48/000000/sql.png">
+  <img align="center" alt=".NET" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png">
+  <img align="center" alt="Docker" height="40" src="https://img.icons8.com/color/48/000000/docker.png">
 </div>
 
 ### 📊 Statistics
