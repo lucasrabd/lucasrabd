@@ -24,6 +24,7 @@ Olá, sou o Lucas! 👋 Um apaixonado por tecnologia e desenvolvimento de softwa
   <img align="center" alt="Estatísticas do Lucas" height="180em"src="https://github-readme-stats.vercel.app/api?username=lucasrabd&theme=transparent&show_icons=true">
 </div>
 
+
 ### 📧 Entre em contato
 
 Quer trocar ideias sobre tecnologia, desenvolvimento ou apenas bater um papo? Estou sempre disponível para novas conexões!
