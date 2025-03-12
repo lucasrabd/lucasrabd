@@ -8,6 +8,8 @@ Olá, sou o Lucas! 👋 Um apaixonado por tecnologia e desenvolvimento de softwa
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrabd)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 💻 Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
