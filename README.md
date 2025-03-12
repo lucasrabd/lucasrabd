@@ -1,5 +1,8 @@
 ### 👨‍💻 Sobre mim
 
+
+[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrabd)](https://github.com/anuraghazra/github-readme-stats)
+
 Olá, sou o Lucas! 👋 Um apaixonado por tecnologia e desenvolvimento de software. Recentemente me formei em Análise e Desenvolvimento de Sistemas na FIAP, onde vivi um universo de código e inovação.
 
 - 🌟 Explorando novas fronteiras no mundo da programação e me aventurando em diferentes tecnologias.  
